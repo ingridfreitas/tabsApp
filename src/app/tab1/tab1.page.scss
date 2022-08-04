@@ -1,0 +1,23 @@
+ion-header{
+    text-align: center;
+}
+
+ion-label {
+    text-align: center;
+}
+
+ion-icon {
+    font-size: 16px;
+}
+
+ion-card-header {
+    text-align: center;
+    border-bottom: solid 2px #cbcbff;
+    ion-icon {
+        font-size: 20px;
+        color: #a79b00;
+    }
+    .city{
+        font-weight: bold;
+    }
+}
